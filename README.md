@@ -337,3 +337,8 @@ so everyone builds with the same component versions.
 - [ ] Sensor sampling and logging (SD card on the platform)
 - [ ] Save DAC defaults to the MCP4728 EEPROM
 - [ ] Per-input ADC calibration trim from the loopback test
+
+## License
+
+[MIT](LICENSE) © 2026 Gil Tal. This covers the firmware, the documentation and the ESP32 Course
+Platform schematic. The TTGO T-Display schematic is LilyGO's and is included for reference only.
